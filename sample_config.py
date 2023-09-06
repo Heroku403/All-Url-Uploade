@@ -25,7 +25,7 @@
 class Config(object):
 
     # get a token from @BotFather
-    BOT_TOKEN = "5732190759:AAEJS6JREMSgkIDQZzU4oUHlz6AXzFprezk"
+    BOT_TOKEN = "5732190759:AAFjs0S17YrfEQjBI3YF0f16P9xnCzCSO6w"
 
     # Get these values from my.telegram.org
     API_ID = 14136462
